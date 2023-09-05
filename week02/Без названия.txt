@@ -1,0 +1,12 @@
+-linux command : is, is -al,pwd, cd.git,cd.., echo 
+Linux command : is, is -al, pwd, cd, .git, cd..
+-git command
+ Git init
+Git status 
+Git add week01.txt
+- git config --global user.email "you@example.com"
+ git config --global user.name "Your Name
+" git commit -m 
+"vO" 
+git log
+
